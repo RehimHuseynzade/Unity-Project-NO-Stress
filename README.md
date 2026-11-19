@@ -68,30 +68,6 @@ Follow these steps to run the project locally.
 
 6. Open the main game scene and press **Play**.
 
-## 📂 Project Structure
-
-The project is organized using Unity's standard project structure.
-
-```text
-Unity-Project-NO-Stress/
-│
-├── Assets/
-│   ├── Scenes/
-│   ├── Scripts/
-│   ├── Prefabs/
-│   ├── Sprites/
-│   ├── Audio/
-│   └── ...
-│
-├── Packages/
-├── ProjectSettings/
-│
-├── .gitignore
-└── README.md
-```
-
-*Note: The structure above is illustrative. Actual folders may vary depending on the project.*
-
 ## 🎯 Gameplay
 
 The gameplay revolves around passing enemies and collecting points.
