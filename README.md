@@ -68,6 +68,10 @@ Follow these steps to run the project locally.
 
 6. Open the main game scene and press **Play**.
 
+## 📂 Project Structure
+
+The project is organized using Unity's standard project structure.
+
 ## 🎯 Gameplay
 
 The gameplay revolves around passing enemies and collecting points.
