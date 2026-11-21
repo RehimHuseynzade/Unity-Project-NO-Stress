@@ -37,6 +37,10 @@ public class Score_Manager : MonoBehaviour
             {
                 _enemyInstanceManager.PrefabNumber++;
             }
+            else if (FinalScore >= 60 && _enemyInstanceManager.PrefabNumber == 4)
+            {
+                _enemyInstanceManager.PrefabNumber++;
+            }
             else
             {
                 EnemyCekt = true;
