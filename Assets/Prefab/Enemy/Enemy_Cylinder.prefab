@@ -105,8 +105,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Enemy_Controler
   _speed: 30
-  Score: 15
-  LevelScore: 10
+  Score: 16
+  LevelScore: 8
 --- !u!65 &7113898568388085173
 BoxCollider:
   m_ObjectHideFlags: 0
