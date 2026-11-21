@@ -126,5 +126,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Enemy_Controler
   _speed: 20
-  Score: 1
+  Score: 4
   LevelScore: 2

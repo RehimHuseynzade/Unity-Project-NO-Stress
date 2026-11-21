@@ -159,6 +159,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0b3e610403cd6be47af434b210b1f0fe, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Enemy_Controler
-  _speed: 24
-  Score: 3
-  LevelScore: 7
+  _speed: 25
+  Score: 4
+  LevelScore: 8
